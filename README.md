@@ -4,6 +4,9 @@ https://excalidraw.com/#room=ca9fe6e5c4adf2f86f6c,gzjUIWjJ_cUvuYCXUgyeJg
 
 https://pads.ccc.de/how_to_become_a_webdev
 
+## Demo
+
+![Demo Bild](/b4code_designs_demo.png)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
